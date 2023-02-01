@@ -30,4 +30,4 @@ pokémon como para los que recién se están interiorizando con estos divertidos
 
 El objetivo de esta página es informativa para los fánaticos de pokémons con dinamismo y colores caracteristicos de esta 
 animación para poder atraer a los usuarios, el fin de esta página es que sea accesible para cualquier persona que busca 
-información de uno o varios poémons.
+información de uno o varios pokémons.
